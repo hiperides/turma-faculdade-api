@@ -1,0 +1,15 @@
+{
+  "name": "turma-faculdade-api",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "nedb-promise": "^2.0.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
